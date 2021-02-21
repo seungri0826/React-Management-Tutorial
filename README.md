@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Customer Management System
+본 프로젝트는 goormedu의 _React와 Node.js를 활용한 고객 관리 시스템 개발_ 강의의 복습 목적으로 만들어진 고객 관리 시스템 입니다.
 ## Available Scripts
 
 In the project directory, you can run:
